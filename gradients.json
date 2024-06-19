@@ -1,4 +1,8 @@
 [
+  {
+        "name": "Decole",
+        "colors": ["#ED767A", "#B6452B", "#DD8C1F", "#E4BA4E", "#B2DC95", "#64BDB2", "#4CB2BF"]
+    },
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
